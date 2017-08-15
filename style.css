@@ -1,0 +1,20 @@
+h1 {
+    color: #99ccff;
+    font-family: cursive;
+    border-style: double;
+    border-color: #FFBE53;
+}
+body {
+    background-color: #ffffb3;
+    color:#E86F74;
+}
+h2 {
+    color:#E86F74;
+    font-family: sans-serif;
+}
+a:link {
+    color: #FF8D50;
+}
+b:visited {
+    color: #8FA7FF;
+}
